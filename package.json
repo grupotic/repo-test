@@ -1,0 +1,14 @@
+{
+  "name": "testnode-api",
+  "version": "1.0.0",
+  "description": "somethings",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest start"
+  },
+  "author": "AKP",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
